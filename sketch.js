@@ -22,7 +22,7 @@ function setup(){
   quiz.start();
 
   music.loop();
-  music.setVolume(0.5);
+  music.setVolume(0.45);
 }
 
 
