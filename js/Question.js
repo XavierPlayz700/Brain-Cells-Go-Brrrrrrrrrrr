@@ -23,7 +23,7 @@ class Question {
 
   display(){
     this.title.html("Mess with Your Brain - A Game");
-    this.title.position(350, 0);
+    this.title.position(width / 2, 0);
 
     this.question.html("Question:- Never Gonna Give You Up... " );
     this.question.position(150, 80);
